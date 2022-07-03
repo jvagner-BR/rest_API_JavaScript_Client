@@ -28,18 +28,20 @@ A rota POST (/add_usuario) recebe a seguinte estrutura baseada em informações 
 ### consumindo a API ###
 /get
 
-https://user-images.githubusercontent.com/83413866/177044416-f1ea0894-5f56-4c05-b479-f270e4a401ba.mp4
+![API_get](https://user-images.githubusercontent.com/83413866/177044718-4748a7ac-51fd-405f-9fc3-db741e433a4b.gif)
 
 /put
 
-https://user-images.githubusercontent.com/83413866/177044432-fe990c0c-1f9c-4ace-b52b-31aff9c52e58.mp4
+![API_put](https://user-images.githubusercontent.com/83413866/177044831-9d776596-823f-4008-9cb7-7e566b9fc1d1.gif)
 
 /delete
 
-https://user-images.githubusercontent.com/83413866/177044443-50db5793-ef42-4940-bd67-8c193ab2f4b2.mp4
+![API_delete](https://user-images.githubusercontent.com/83413866/177044868-19396435-12b1-4e34-bbd3-2153302a4bc2.gif)
 
 /post
 
-https://user-images.githubusercontent.com/83413866/177044458-c4526262-6b2c-4968-9232-221f4dc116af.mp4
+![API_post1](https://user-images.githubusercontent.com/83413866/177044780-3f789940-ee2f-4dce-9bee-03497d378a53.gif)
+
+
 
 
